@@ -2,7 +2,9 @@
 
 This repo is a companion to the [YouTube video](https://www.youtube.com/@TryArcade) about simplifying the integration of agents into any communication channel.
 
-# Credits
+## Credits
+
+This code is an adaptation of [this](https://github.com/ricklamers/tg-calendar-agent) bot. The original interface and functionality remains unchanged.
 
 ## Features
 
